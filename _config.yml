@@ -22,8 +22,8 @@ cusdis:
 user:
   name: caden.lee
   pic: /assets/img/cat.jpg
-  picAlt: "catbook"
-  job: a category-centric theme
+  picAlt: "caden.lee"
+  job: a develop story blog
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
