@@ -21,7 +21,7 @@ cusdis:
 
 user:
   name: caden.lee
-  pic: /assets/img/ddi4.jpg
+  pic: /assets/img/dog.jpg
   picAlt: "caden.lee"
   job: a develop story blog
   aboutme: true # comment this out if you don't need the 'about' page.
