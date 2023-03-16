@@ -1,5 +1,5 @@
 ---
-title: [INTELLIJ] MSSQL Unicode 문제
+title: MSSQL Unicode 문제
 categories: [develop]
 comments: true
 ---
